@@ -1,0 +1,36 @@
+.Header {
+    background: #262626;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 50px;
+    color: #fff;
+    box-shadow: 0px 5px 29px 0px rgba(34, 113, 209, 0.70);
+    align-items: center;
+}
+
+.botones {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+
+}
+.boton{
+    width: 150px;
+    padding: 10px 20px;
+    text-align: center;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.boton_home {
+    color: #2271D1;
+    border-radius: 10px;
+    border: 2px solid #2271D1;
+    background: rgba(0, 0, 0, 0.90);
+    box-shadow: 0px 0px 12px 4px #2271D1 inset;
+}
+
+.boton_new {
+    border-radius: 10px;
+    border: 2px solid #F5F5F5;
+}

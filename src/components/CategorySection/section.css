@@ -1,0 +1,20 @@
+.category-section{
+    padding: 50px;
+}
+.titulo_categoria h2{
+    width: 200px;
+    text-align: center;
+    text-transform:uppercase;
+    border-radius: 80px;
+    margin-bottom: 30px;
+    padding: 20px 20px;
+}
+.videos{
+    display: flex;
+    gap: 30px;
+    justify-content: center
+}
+
+.video_card{
+    border: 2px solid red;
+}
